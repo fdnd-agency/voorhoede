@@ -4,9 +4,9 @@
 
 *Would you like to leave an issue? We'd appreciate it if you could do this in the  [FDND Agency repo](https://github.com/fdnd-agency/voorhoede). This helps us keep everything in one place.*
 
-# Dutch Digital Agencies 💻
+This amazing project has been realized by : [Lisa](https://github.com/lisagjh), [Yu-jing](https://github.com/yujing-student) & [Jason]().
 
-This amazing project has been made by : [Lisa](https://github.com/lisagjh), [Yu-jing](https://github.com/yujing-student) & [Jason]()
+# Dutch Digital Agencies 💻
 
 ![DUTCH DIGITAL AGENCIES](https://github.com/user-attachments/assets/b461e4bc-0d6d-480a-8e47-c75e88187acd)
 
