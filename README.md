@@ -6,6 +6,7 @@
 
 # Dutch Digital Agencies 💻
 
+This amazing project has been made by : [Lisa](https://github.com/lisagjh), [Yu-jing](https://github.com/yujing-student) & [Jason]()
 
 ![DUTCH DIGITAL AGENCIES](https://github.com/user-attachments/assets/b461e4bc-0d6d-480a-8e47-c75e88187acd)
 
