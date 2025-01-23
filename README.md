@@ -19,6 +19,7 @@ This amazing project has been realized by : [Lisa](https://github.com/lisagjh), 
 - [Description](#Description)
 - [Tech Stack](#Tech-Stack)
 - [Installation](#Installation)
+- [Contribute](#Contribute)
 - [Known Bugs](#Known-Bugs)
 - [License](#License)
 
@@ -63,6 +64,9 @@ Follow these steps to clone and run the project locally. Make sure you have git,
 
 5. Click the link to view the website, and have fun coding.
 
+## Contribute
+
+If you would like to contribute to this project, we urge you to read [our contribution guide](https://github.com/lisagjh/voorhoede/blob/main/Contribute.md#contributing).
 
 ## Known Bugs 🐛
 
