@@ -15,7 +15,11 @@
 | Renzo	| [repository](https://github.com/RenzoWille/fix-the-flow-interactive-website)	| [live site](https://renzowille.github.io/fix-the-flow-interactive-website/) 
 | Senne	| [repository](https://github.com/senneb31/fix-the-flow-interactive-website)	| [live site](https://senneb31.github.io/fix-the-flow-interactive-website/docs/) 
 
+**API Endpoints**  
+* https://fdnd-agency.directus.app/items/dda_agencies
+* https://fdnd-agency.directus.app/items/dda_agencies_vacancies
 
+**Stack**  
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-v5-orange)
 ![Directus](https://img.shields.io/badge/Directus-API-blue)
 ![Vite](https://img.shields.io/badge/Vite-fast-brightgreen)
