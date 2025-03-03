@@ -9,11 +9,11 @@
 
 |  |  |  | 
 | :--------------- | :--------------- | :--------------- |
-| Jules	| https://github.com/julesbruins/fix-the-flow-interactive-website | https://julesbruins.github.io/fix-the-flow-interactive-website/ 
-| Marcin | https://github.com/MarsGotBars/fix-the-flow-interactive-website 	| https://marsgotbars.github.io/fix-the-flow-interactive-website/ 
-| Kyan	| https://github.com/KyanTG/fix-the-flow-interactive-website	| https://kyantg.github.io/fix-the-flow-interactive-website/DDA/dda.html 
-| Renzo	| https://github.com/RenzoWille/fix-the-flow-interactive-website	| https://renzowille.github.io/fix-the-flow-interactive-website/ 
-| Senne	| https://github.com/senneb31/fix-the-flow-interactive-website	| https://senneb31.github.io/fix-the-flow-interactive-website/docs/ 
+| Jules	| [repository](https://github.com/julesbruins/fix-the-flow-interactive-website) | [live site](https://julesbruins.github.io/fix-the-flow-interactive-website/) 
+| Marcin | [repository](https://github.com/MarsGotBars/fix-the-flow-interactive-website) 	| [live site](https://marsgotbars.github.io/fix-the-flow-interactive-website/) 
+| Kyan	| [repository](https://github.com/KyanTG/fix-the-flow-interactive-website)	| [live site](https://kyantg.github.io/fix-the-flow-interactive-website/DDA/dda.html) 
+| Renzo	| [repository](https://github.com/RenzoWille/fix-the-flow-interactive-website)	| [live site](https://renzowille.github.io/fix-the-flow-interactive-website/) 
+| Senne	| [repository](https://github.com/senneb31/fix-the-flow-interactive-website)	| [live site](https://senneb31.github.io/fix-the-flow-interactive-website/docs/) 
 
 
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-v5-orange)
