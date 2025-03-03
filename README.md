@@ -2,6 +2,9 @@
 
 ![DUTCH DIGITAL AGENCIES](https://github.com/user-attachments/assets/b461e4bc-0d6d-480a-8e47-c75e88187acd)
 
+**Team Sprint 8**  
+Matthijs, Branco, Ravi, Miel, Anouar, Stella
+
 **Release Candidate**  
 [Live site](https://dda.agency.fdnd.nl/)
 
