@@ -2,26 +2,6 @@
 
 ![DUTCH DIGITAL AGENCIES](https://github.com/user-attachments/assets/b461e4bc-0d6d-480a-8e47-c75e88187acd)
 
-**Team Sprint 8**  
-Matthijs, Branco, Ravi, Miel, Anouar, Stella
-
-**Release Candidate**  
-[Live site](https://dda.agency.fdnd.nl/)
-
-**Studentenwerk Sprint 5: Fix The Flow** 
-
-|  |  |  | 
-| :--------------- | :--------------- | :--------------- |
-| Jules	| [repository](https://github.com/julesbruins/fix-the-flow-interactive-website) | [live site](https://julesbruins.github.io/fix-the-flow-interactive-website/) 
-| Marcin | [repository](https://github.com/MarsGotBars/fix-the-flow-interactive-website) 	| [live site](https://marsgotbars.github.io/fix-the-flow-interactive-website/) 
-| Kyan	| [repository](https://github.com/KyanTG/fix-the-flow-interactive-website)	| [live site](https://kyantg.github.io/fix-the-flow-interactive-website/DDA/dda.html) 
-| Renzo	| [repository](https://github.com/RenzoWille/fix-the-flow-interactive-website)	| [live site](https://renzowille.github.io/fix-the-flow-interactive-website/) 
-| Senne	| [repository](https://github.com/senneb31/fix-the-flow-interactive-website)	| [live site](https://senneb31.github.io/fix-the-flow-interactive-website/docs/) 
-
-**API Endpoints**  
-* https://fdnd-agency.directus.app/items/dda_agencies
-* https://fdnd-agency.directus.app/items/dda_agencies_vacancies
-
 **Stack**  
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-v5-orange)
 ![Directus](https://img.shields.io/badge/Directus-API-blue)
