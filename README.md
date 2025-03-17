@@ -1,13 +1,16 @@
+# Dutch Digital Agencies 💻
+
+![DUTCH DIGITAL AGENCIES](https://github.com/user-attachments/assets/b461e4bc-0d6d-480a-8e47-c75e88187acd)
+
+**Stack**  
 ![SvelteKit](https://img.shields.io/badge/SvelteKit-v5-orange)
 ![Directus](https://img.shields.io/badge/Directus-API-blue)
 ![Vite](https://img.shields.io/badge/Vite-fast-brightgreen)
 
 *Would you like to leave an issue? We'd appreciate it if you could do this in the  [FDND Agency repo](https://github.com/fdnd-agency/voorhoede). This helps us keep everything in one place.*
 
-# Dutch Digital Agencies 💻
+This amazing project has been realized by : [Lisa](https://github.com/lisagjh), [Yu-jing](https://github.com/yujing-student) & [Jason]().
 
-
-![DUTCH DIGITAL AGENCIES](https://github.com/user-attachments/assets/b461e4bc-0d6d-480a-8e47-c75e88187acd)
 
 ## Link to website 🔗
 
@@ -18,6 +21,7 @@
 - [Description](#Description)
 - [Tech Stack](#Tech-Stack)
 - [Installation](#Installation)
+- [Contribute](#Contribute)
 - [Known Bugs](#Known-Bugs)
 - [License](#License)
 
@@ -38,7 +42,9 @@ Follow these steps to clone and run the project locally. Make sure you have git,
 1. Clone this repository to your local machine using the following command in your terminal:
 
     ```bash
-    git clone https://github.com/fdnd-agency/voorhoede.git
+
+    git clone https://github.com/lisagjh/dda.git
+
     ```
 
 2. Navigate to the project folder:
@@ -63,10 +69,15 @@ Follow these steps to clone and run the project locally. Make sure you have git,
 5. Click the link to view the website, and have fun coding.
 
 
+## Contribute
+If you would like to contribute to this project, we urge you to read [our contribution guide](https://github.com/lisagjh/voorhoede/blob/main/Contribute.md#contributing).
+
+
 ## Known Bugs 🐛
 
 - After tabbing through the menu, you start tabbing through the main content, but the menu remains open.
 - On firefox, the main is not correctly aligned and overflows into the header.
+
 
 We are currently not aware of any other bugs. If you encounter any, feel free to [tell us about it in an issue]((https://github.com/fdnd-agency/voorhoede))!
 
