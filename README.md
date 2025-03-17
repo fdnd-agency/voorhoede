@@ -11,6 +11,7 @@
 
 This amazing project has been realized by : [Lisa](https://github.com/lisagjh), [Yu-jing](https://github.com/yujing-student) & [Jason]().
 
+
 ## Link to website 🔗
 
 [Live site](https://dda.agency.fdnd.nl/)
@@ -41,7 +42,9 @@ Follow these steps to clone and run the project locally. Make sure you have git,
 1. Clone this repository to your local machine using the following command in your terminal:
 
     ```bash
-    git clone https://github.com/lisagjh/voorhoede.git
+
+    git clone https://github.com/lisagjh/dda.git
+
     ```
 
 2. Navigate to the project folder:
@@ -65,13 +68,16 @@ Follow these steps to clone and run the project locally. Make sure you have git,
 
 5. Click the link to view the website, and have fun coding.
 
-## Contribute
 
+## Contribute
 If you would like to contribute to this project, we urge you to read [our contribution guide](https://github.com/lisagjh/voorhoede/blob/main/Contribute.md#contributing).
+
 
 ## Known Bugs 🐛
 
 - After tabbing through the menu, you start tabbing through the main content, but the menu remains open.
+- On firefox, the main is not correctly aligned and overflows into the header.
+
 
 We are currently not aware of any other bugs. If you encounter any, feel free to [tell us about it in an issue]((https://github.com/fdnd-agency/voorhoede))!
 

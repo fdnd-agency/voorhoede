@@ -1,3 +1,4 @@
+
 <h3>What is the current status of the project?</h3>
 
 The project is largely complete. There are a few [points of improvements](https://github.com/orgs/fdnd-agency/projects/40/views/13?filterQuery=is%3Aopen++-has%3Aindicator+label%3AImprovements)
@@ -11,3 +12,4 @@ The header is not yet fully progressive enhanced.
 
 <h3>What is recommended as the first step for the next team?</h3>
 Check the project board and look at the open issues to see what needs to be done now.
+
